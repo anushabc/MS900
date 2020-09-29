@@ -1,0 +1,29 @@
+[
+  {
+    "Name": "MS900",
+    "Language": "English",
+    "BaseURL": "https://github.com/CloudLabs-AI/MS-900-Lab-Content",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-AI/MS-900-Lab-Content/master/Module%201%3A%20Intro%20to%20Microsoft%20365%20Admin%20Center.md?token=AP3PF6QXDWRGN24YH73CNB27OLI7A",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-AI/MS-900-Lab-Content/master/Module%202%3A%20Microsoft%20Teams%20for%20Collaboration.md?token=AP3PF6R7PBMAAHYIH3IUOLC7OLURS",
+        "Order": 2
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-AI/MS-900-Lab-Content/master/Module%203%20%3A%20M365%20Business%20Management%20Capabilities.md?token=AP3PF6VIBW6RJHBBGADUBMC7OLU66",
+        "Order": 3
+      },
+      { 
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-AI/MS-900-Lab-Content/master/Module%204%20%3A%20M365%20Security%20and%20Compliance%20.md?token=AP3PF6VJSFMCU4X2DEJ7MT27OLVAW",
+        "Order": 4
+      },
+      { 
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-AI/MS-900-Lab-Content/master/Module%205%20%3A%20Licensing.md?token=AP3PF6SIYQW6OGER44RT2Z27OLVDM",
+        "Order": 5
+      },
+    ]
+  }
+]
